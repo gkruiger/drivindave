@@ -2,13 +2,13 @@
 Exploring neural networks and the genetic algorithm in a couple of my blogs: 
 
 The post containing this code:
-https://www.ontdeksels.nl/ontdeksel-22-daves-revenge/
+- https://www.ontdeksels.nl/ontdeksel-22-daves-revenge/
 
 Previous posts:
-https://www.ontdeksels.nl/ontdeksel-20-nerdy-norah/
-https://www.ontdeksels.nl/ontdeksel-18-flaming-freddy/
-https://www.ontdeksels.nl/ontdeksel-16-drivin-dave/
-https://www.ontdeksels.nl/ontdeksel-14-de-pijlenrace-naar-de-grens/ (all in Dutch).
+- https://www.ontdeksels.nl/ontdeksel-20-nerdy-norah/
+- https://www.ontdeksels.nl/ontdeksel-18-flaming-freddy/
+- https://www.ontdeksels.nl/ontdeksel-16-drivin-dave/
+- https://www.ontdeksels.nl/ontdeksel-14-de-pijlenrace-naar-de-grens/ (all in Dutch).
 
 ![Demo screenshot](https://github.com/gkruiger/drivindave/blob/master/screenshot.png "Demo screenshot")
 
