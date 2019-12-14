@@ -1,5 +1,14 @@
 # drivindave
-Exploring neural networks and the genetic algorithm in a couple of my blogs: https://www.ontdeksels.nl/ontdeksel-14-de-pijlenrace-naar-de-grens/ (all in Dutch).
+Exploring neural networks and the genetic algorithm in a couple of my blogs: 
+
+The post containing this code:
+https://www.ontdeksels.nl/ontdeksel-22-daves-revenge/
+
+Previous posts:
+https://www.ontdeksels.nl/ontdeksel-20-nerdy-norah/
+https://www.ontdeksels.nl/ontdeksel-18-flaming-freddy/
+https://www.ontdeksels.nl/ontdeksel-16-drivin-dave/
+https://www.ontdeksels.nl/ontdeksel-14-de-pijlenrace-naar-de-grens/ (all in Dutch).
 
 ![Demo screenshot](https://github.com/gkruiger/drivindave/blob/master/screenshot.png "Demo screenshot")
 
@@ -22,4 +31,4 @@ var mutationChance = 0.10;              // Change each bit in each gene/config v
 var maxGenerations = 25;                // Maximum number of generations/rounds
 ```
 
-If you want to see what these variables do, just play with it. IF you want to ready more after that, Google is your friend. My blogs won't help you here, because I tried to stay away from all this stuff (it's complicated enough already).
+If you want to see what these variables do, just play with it. If you want to ready more after that, Google is your friend. My blogs won't help you here, because I tried to stay away from all this stuff (it's complicated enough already).
